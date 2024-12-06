@@ -1,0 +1,39 @@
+.navbar-logo-1 {
+  width: 140px;
+}
+
+.navbar-white {
+  background-color: white;
+}
+
+body {
+  padding-top: 250px;
+}
+
+.navigation-links a {
+  margin: 5px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.image-container img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.image-container img:hover {
+  transform: scale(1.2);
+}
+
+.custom-font {
+  font-family: "Playfair", serif;
+}
+
+.font-size {
+  font-size: 20px;
+}
+
+.custom-font-1 {
+  font-family: "Playfair Display SC", system-ui;
+}
